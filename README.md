@@ -2,13 +2,19 @@
 
 _Dette dokument - og hele mappen - er et work-in-progress. Det repræsenterer en samlet kilde til alle relevante dokumenter for processen i at lave et bofællesskab._
 
-Den nuværende outline er delt i følgende faser:
+### Indhold
 
-1. Forventninger
-2. Realitetstjek
-3. Beslutning og tilsagn
-4. Køb
-5. Indflytning og drift
+- [Køreplan til bofællesskab eller kollektiv](#k%C3%B8replan-til-bof%C3%A6llesskab-eller-kollektiv)
+    - [Indhold](#indhold)
+  - [1. Forventninger](#1-forventninger)
+  - [2. Realitetstjek](#2-realitetstjek)
+    - [Budget](#budget)
+    - [Advokathjælp](#advokathj%C3%A6lp)
+    - [Lån](#l%C3%A5n)
+    - [Markedsresearch](#markedsresearch)
+  - [3. Beslutning og tilsagn](#3-beslutning-og-tilsagn)
+  - [4. Køb](#4-k%C3%B8b)
+  - [5. Indflytning og drift](#5-indflytning-og-drift)
 
 ## 1. Forventninger
 
@@ -34,13 +40,15 @@ Det omhandler ønsker og krav til:
   - Sociale forpligtelser: er der forventninger til, hvordan og i hvilket omfang man ønsker at være social og deltagende?
   - Regler og hensyn: må man holde husdyr? Hvad er reglerne for rygning - og andre rusmidler? Må man feste på en torsdag? Hvor bløde eller hårde er reglerne? Er der **konsekvenser**, eller er det _guidelines_?
   - Individuelle hensyn: hvordan håndterer vi særlige hensyn til enkeltpersoner?
-- **Den økonomiske ramme**
+- **Den økonomiske og juridiske ramme**
   - Foreningsstruktur: skal vi stifte en andelsforening, eller findes der noget smartere i dag? Hvordan skal det finansieres?
   - Vilkår og rettigheder: hvordan skal vi sikre den enkelte overfor fællesskabet, og vice versa? Hvordan minimerer vi stridigheder rent juridisk?
   - Penge: hvad ønsker vi at betale? Hvad tænker vi er acceptabelt?
-  - Social økonomi: udover selve betalingen og vedligeholdelsen af ejendommen, er der interesse for at betale til fælles projekter af luksus-karakter? F.eks. fælles biograf, billardbord, fransk kok, fælles flåde af el-biler, en yacht, sky lights, våben til at forsvare os mod nordsjællandske anti-kollektivister, etc.
+  - Social økonomi: udover selve betalingen og vedligeholdelsen af ejendommen, er der interesse for at betale til fælles projekter af luksus-karakter? F.eks. fælles biograf, billardbord, fransk kok, fælles flåde af el-biler, en yacht, sky lights, våben til at forsvare os mod nordsjællandske anti-kollektivister, etc. Er betalingen hertil symmetrisk eller proportionel til indkomst?
   - Aldersfordeling, baggrund og lighed: ønsker vi at skabe andele, der primært er tilpasset og målrettet vores situation (i fordeling, størrelse, pris pr m<sup>2</sup>), eller ønsker vi diversitet i adgangen til at deltage - så det også bliver relevant for personer, i helt andre situationer?
   - Udskiftning: er salg en sag for sælger, eller for foreningen? Skal eksisterende medlemmer tilbydes at opkøbe andele, eller ønsker vi at fastholde antallet af andele? Kan en andel stige i pris, eller ønsker vi at holde prisen nede, så udskiftning bliver nemmere?
+  - Eksklusion: kan andelshavere ekskluderes? Hvordan foregår det?
+  - Foreningens drift: hvordan, og af hvem, skal foreningen drives? _Se eventuelt afsnittet om [indflytning og drift](#5-indflytning-og-drift)_.
 
 Denne liste er ikke udtømmende. Tænk særligt over eventuelle andre showstoppers. Husk at der ikke findes nogle implicitte, universelle enigheder. Der vil altid være én, der er uenig.
 
@@ -60,6 +68,12 @@ Der opstilles et budget. På dette tidspunkt kender vi ikke husets detaljer. Der
 - Give en idé om betydningen af _worst case_ scenarier: hvis enkelte familier rammes af fyringer, hvis renten stiger, etc.
 - Give mulighed for, at den enkelte familie kan opgøre, hvilken situation de vil komme til at stå i - familiens mulige bidrag til foreningen skal tage udgangspunkt i, hvad familien forventer og ønsker at have tilbage til sig selv.
 
+### Advokathjælp
+
+Vi stifter den første reelle omkostning ved at kontakte en advokat, som hjælper os med at tegne en kladde til foreningens form, samt give os basal rådgivning om den videre færd (_do's and don'ts_).
+
+Omkostningen ved denne bistand er fælles og muligvis tabt, hvis vi ikke stifter foreningen og køber en ejendom.
+
 ### Lån
 
 Der skal indledes en dialog med banken, når man har _både budget og jura_ på plads. Banken vil sandsynligvis være tilbageholdende med at udfærdige tilsagn
@@ -70,14 +84,24 @@ _Hver familie kan låne et beløb svarende til husstandens samlede, årlige brut
 
 **Eksempel**: M tjener 38.000 / md. K tjener 42.000 / md. Ved salg af bolig opnår de en friværdi på 250.000. De kan derfor låne: (38.000 + 42.000) x 12 x 3,5 + 250.000 = 3.610.000 kr.
 
+### Markedsresearch
+
+Gruppen, eller en udpeget del heraf, går i gang med at afsøge markedet for potentielle emner. Målet er at vurdere, om økonomi, ønsker og krav går op i en højere enhed. Det er muligt, at markedets øjeblikkelige vilkår gør den videre søgning irrelevant. Vi skal så tage stilling til, om vi vil vente på markedet eller skrinlægge planen.
+
 ## 3. Beslutning og tilsagn
 
-_(under udfærdigelse)_
+Der skaffes tilsagn fra banken. 
+
+Foreningen stiftes med hjælp fra advokaten, og de enkelte medlemmer af foreningen forpligter sig gennem deltagelse i den stiftende generalforsamling og eventuelt indbetaling af depositum. Det besluttes, om og under hvilke vilkår man kan springe fra efter dette tidspunkt.
+
+Vi tager stilling til, hvordan _timingen_ i den videre færd skal være. Alle har en bolig, der eventuelt skal sælges, og ellers opsiges og fraflyttes. Denne proces skal overvejes inden købet finder sted.
 
 ## 4. Køb
 
-_(under udfærdigelse)_
+Vi køber en ejendom.
 
 ## 5. Indflytning og drift
 
-_(under udfærdigelse)_
+Vi flytter ind. Herefter er foreningen forbundet med en vis drift:
+
+_nogen_ skal drive foreningen. Ansvaret omfatter både de opgaver, som en bestyrelse har, og administrators. Det økonomiske og regnskabsmæssige ansvar er særlig tungt, idet foreningen formentlig vil have en bankkonto, der bestyres internt. Herfra betales de løbende poster, og derfor er _opkrævning_ også foreningens eget ansvar.
