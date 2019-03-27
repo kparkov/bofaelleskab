@@ -9,6 +9,7 @@ _Dette dokument - og hele mappen - er et work-in-progress. Det repræsenterer en
   - [1. Forventninger](#1-forventninger)
   - [2. Realitetstjek](#2-realitetstjek)
     - [Budget](#budget)
+      - [Poster i budgettet](#poster-i-budgettet)
     - [Advokathjælp](#advokathj%C3%A6lp)
     - [Lån](#l%C3%A5n)
     - [Markedsresearch](#markedsresearch)
@@ -60,13 +61,35 @@ _Målet med denne fase er at blive fuldstændig afklaret med, om processen kan g
 
 ### Budget
 
-Der opstilles et budget. På dette tidspunkt kender vi ikke husets detaljer. Der er flere mål med dette budget:
+1. Hver familie opstiller eget budget. Der er ikke behov for at offentliggøre dette for gruppen, men gruppen skal have to tal fra familierne: et _komfort-tal_ (det højeste tal, hvor familien stadig er komfortabel med det) og et _max-tal_ (hvis prisen bliver højere end dette, er familien tvunget til at sælge / flytte).
+2. Der opstilles et foreningsbudget. På indtægtssiden bogføres alle komforttal.
+
+Der er flere mål med dette budget:
 
 - Afklare, om det er realistisk at gå på markedet.
 - At indhente godkendelse hos bank / realkredit og et max-beløb, der kan lånes.
 - At skabe overblik over muligheder og begrænsninger i den samlede økonomi.
 - Give en idé om betydningen af _worst case_ scenarier: hvis enkelte familier rammes af fyringer, hvis renten stiger, etc.
 - Give mulighed for, at den enkelte familie kan opgøre, hvilken situation de vil komme til at stå i - familiens mulige bidrag til foreningen skal tage udgangspunkt i, hvad familien forventer og ønsker at have tilbage til sig selv.
+
+#### Poster i budgettet
+
+På dette tidspunkt kender vi ikke husets detaljer. Vi opererer med et meget dynamisk budget, hvor vi kan udskifte de enkelte poster nemt.
+
+- Afdrag på lån
+- Ejendomsskat: _ejendomsværdiskatten udgør som udgangspunkt 1 procent af ejendomsværdien op til 3.040.000 kr. og 3 procent af resten af ejendommens værdi. For 12 mio er dette 299.200 kr._ ([kilde](https://www.bolius.dk/saadan-beregnes-din-ejendomsvaerdiskat-12612/))
+- Forbrug (el, vand og varme)
+- Internet og medielicens
+- Forsikringer: _indbo og brand som minimum_.
+- Vedligeholdelseskonto: _udvendigt vedligehold (hus) er meget mere omfattende end indvendigt (lejlighed)_.
+- Indbetaling til social økonomi (luksus-poster)
+- Uforudsete udgifter
+
+
+
+
+
+
 
 ### Advokathjælp
 
