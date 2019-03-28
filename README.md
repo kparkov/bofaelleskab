@@ -2,9 +2,7 @@
 
 _Dette dokument - og hele mappen - er et work-in-progress. Det repræsenterer en samlet kilde til alle relevante dokumenter for processen i at lave et bofællesskab._
 
-<div style="text-align: center">
-    <img src="assets/map.svg" style="width: 500px; margin-left: 100px" />
-</div>
+<p align="center"><img src="assets/map.svg" width="600" /></p>
 
 ### Indhold
 
