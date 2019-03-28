@@ -2,6 +2,8 @@
 
 _Dette dokument - og hele mappen - er et work-in-progress. Det repræsenterer en samlet kilde til alle relevante dokumenter for processen i at lave et bofællesskab._
 
+![](assets/map.svg)
+
 ### Indhold
 
 - [Køreplan til bofællesskab eller kollektiv](#k%C3%B8replan-til-bof%C3%A6llesskab-eller-kollektiv)
@@ -85,12 +87,6 @@ På dette tidspunkt kender vi ikke husets detaljer. Vi opererer med et meget dyn
 - Indbetaling til social økonomi (luksus-poster)
 - Uforudsete udgifter
 
-
-
-
-
-
-
 ### Advokathjælp
 
 Vi stifter den første reelle omkostning ved at kontakte en advokat, som hjælper os med at tegne en kladde til foreningens form, samt give os basal rådgivning om den videre færd (_do's and don'ts_).
@@ -99,9 +95,9 @@ Omkostningen ved denne bistand er fælles og muligvis tabt, hvis vi ikke stifter
 
 ### Lån
 
-Der skal indledes en dialog med banken, når man har _både budget og jura_ på plads. Banken vil sandsynligvis være tilbageholdende med at udfærdige tilsagn
+Der skal indledes en dialog med banken, når man har _både budget og jura_ på plads. Banken vil sandsynligvis være tilbageholdende med at udfærdige nogen form for tilsagn på grundlag af løse idéer og uklare grupper. Man skal derfor få dem til at give et _skøn_ på grundlag af budgettet. Når man senere har stiftet foreningen, vil det være meget nemmere at indhente tilsagn.
 
-Hvis man afsøger markedet parallelt, og man endnu ikke har fået tilsagn, kan man indledningsvist benytte følgende tommelfingerregel:
+Hvis man afsøger markedet parallelt, og man endnu ikke har fået et skøn, kan man i stedet benytte følgende tommelfingerregel:
 
 _Hver familie kan låne et beløb svarende til husstandens samlede, årlige bruttoindkomst ganget med 3,5, plus eventuel opsparing. Vi antager at det samlede lånebeløb er summen af alle familiers udregning._
 
