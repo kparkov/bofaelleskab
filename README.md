@@ -1,8 +1,8 @@
 # Køreplan til bofællesskab eller kollektiv
 
-_Dette dokument - og hele mappen - er et work-in-progress. Det repræsenterer en samlet kilde til alle relevante dokumenter for processen i at lave et bofællesskab._
+Her er en køreplan til at stifte et bofællesskab eller kollektiv. Den beskriver alle de trin, der er nødvendige for at gennemføre projektet fra start til slut. Det er i høj grad et _work in progress_, og skal opfattes som et levende dokument, der udvikler sig undervejs.
 
-<p align="center"><img src="assets/map.svg" width="600" /></p>
+<p align="center"><img src="assets/map.svg" width="500" /></p>
 
 ### Indhold
 
@@ -21,7 +21,7 @@ _Dette dokument - og hele mappen - er et work-in-progress. Det repræsenterer en
 
 ## 1. Forventninger
 
-_Målet med denne fase er at afklare **hvad, hvem, hvornår og hvorfor** - men endnu ikke hvordan eller om det faktisk skal gennemføres. Alle svar er vejledende, og skal først og fremmest hjælpe til at anskueliggøre, hvad der er muligt, så den enkelte kan afgøre, om det er relevant at fortsætte._
+Målet med denne fase er at afklare **hvad, hvem, hvornår og hvorfor** - men endnu ikke hvordan eller om det faktisk skal gennemføres. Alle svar er vejledende, og skal først og fremmest hjælpe til at anskueliggøre, hvad der er muligt, så den enkelte kan afgøre, om det er relevant at fortsætte.
 
 Hver person og familie vil både have **ønsker**, **bløde krav** (der kan fraviges) og **hårde krav** (show-stoppers), der skal præsenteres for gruppen. Boformen indeholder ikke noget fast, og det skal derfor gøres klart, hvad man lægger i den.
 
@@ -35,10 +35,11 @@ Det omhandler ønsker og krav til:
 - **Fysisk ramme**
   - Placering: afstand til København og/eller anden større by? Afstand til naturen og grønne områder? Krav til landsdel?
   - Type: skal det være hus eller lejlighed (forudsat, at boligen imødekommer øvrige krav)?
+  - Plads, fordeling og faciliteter: er der bestemte krav til plads, værelsesfordeling og faciliteter?
   - Kontrakt: er det et krav, at vi kommer til at eje boligen, eller vil et lejemål med eventuel tidsbegrænsning være attraktivt?
   - Fælles vs privat: skal ejendommen være fordelt som X private boliger, der ligger opad hinanden, eller skal det hovedsageligt være fælles areal med små, private områder?
 - **Den sociale ramme**
-  - Grad af kolle: skal det være et bofællesskab (eget køkken, bad og lås på dør) med fælles dele / fælles hus - eller et kollektiv (delte faciliteter og delte forpligtelser i størstedelen af ejendommen). Der er mange grader imellem.
+  - Grad af kollektiv: skal det være et bofællesskab (eget køkken, bad og lås på dør) med fælles dele / fælles hus - eller et kollektiv (delte faciliteter og delte forpligtelser i størstedelen af ejendommen). Der er mange grader imellem.
   - Fælles praktiske forpligtelser: har man pligter overfor fællesskabet (madlavning, rengøring, vedligehold), eller ønsker vi at minimere og/eller købe os fra fælles forpligtelser?
   - Sociale forpligtelser: er der forventninger til, hvordan og i hvilket omfang man ønsker at være social og deltagende?
   - Regler og hensyn: må man holde husdyr? Hvad er reglerne for rygning - og andre rusmidler? Må man feste på en torsdag? Hvor bløde eller hårde er reglerne? Er der **konsekvenser**, eller er det _guidelines_?
@@ -59,7 +60,9 @@ Målet med fasen er at afklare _om det er relevant at fortsætte_, men også at 
 
 ## 2. Realitetstjek
 
-_Målet med denne fase er at blive fuldstændig afklaret med, om processen kan gennemføres - både for den enkelte og for gruppen._
+Målet med denne fase er at blive fuldstændig afklaret med, om processen kan gennemføres - både for den enkelte og for gruppen.
+
+Man bør forvente, at dette er den længste fase. Her omsættes alle idéer til realisérbare planer. Man er fortsat ikke forpligtet til at gennemføre, hverken som gruppe, familie eller individ. 
 
 ### Budget
 
@@ -78,20 +81,21 @@ Der er flere mål med dette budget:
 
 På dette tidspunkt kender vi ikke husets detaljer. Vi opererer med et meget dynamisk budget, hvor vi kan udskifte de enkelte poster nemt.
 
-- Afdrag på lån
-- Ejendomsskat: _ejendomsværdiskatten udgør som udgangspunkt 1 procent af ejendomsværdien op til 3.040.000 kr. og 3 procent af resten af ejendommens værdi. For 12 mio er dette 299.200 kr._ ([kilde](https://www.bolius.dk/saadan-beregnes-din-ejendomsvaerdiskat-12612/))
-- Forbrug (el, vand og varme)
-- Internet og medielicens
+- Afdrag på lån.
+- Ejendomsskat: _ejendomsværdiskatten udgør som udgangspunkt 1 procent af ejendomsværdien op til 3.040.000 kr. og 3 procent af resten af ejendommens værdi. For 12 mio er dette 299.200 kr. pr. år._ ([kilde](https://www.bolius.dk/saadan-beregnes-din-ejendomsvaerdiskat-12612/))
+- Forbrug (el, vand og varme).
+- Internet og medielicens.
 - Forsikringer: _indbo og brand som minimum_.
 - Vedligeholdelseskonto: _udvendigt vedligehold (hus) er meget mere omfattende end indvendigt (lejlighed)_.
-- Indbetaling til social økonomi (luksus-poster)
-- Uforudsete udgifter
+- Indbetaling til social økonomi (fælles/stordrift og luksus).
+- Uforudsete udgifter.
+- Tab på andele, der er til salg: _afhængigt af reglerne, kan der opstå situationer, hvor udgiften til en andel er foreningens forpligtelse_.
 
 ### Advokathjælp
 
-Vi stifter den første reelle omkostning ved at kontakte en advokat, som hjælper os med at tegne en kladde til foreningens form, samt give os basal rådgivning om den videre færd (_do's and don'ts_).
+Man stifter den første reelle omkostning ved at kontakte en advokat, som hjælper os med at tegne en kladde til foreningens form, samt give os basal rådgivning om den videre færd (_do's and don'ts_).
 
-Omkostningen ved denne bistand er fælles og muligvis tabt, hvis vi ikke stifter foreningen og køber en ejendom.
+Omkostningen ved denne bistand er fælles og muligvis tabt, hvis man ikke stifter foreningen og køber en ejendom.
 
 ### Lån
 
@@ -99,9 +103,22 @@ Der skal indledes en dialog med banken, når man har _både budget og jura_ på 
 
 Hvis man afsøger markedet parallelt, og man endnu ikke har fået et skøn, kan man i stedet benytte følgende tommelfingerregel:
 
-_Hver familie kan låne et beløb svarende til husstandens samlede, årlige bruttoindkomst ganget med 3,5, plus eventuel opsparing. Vi antager at det samlede lånebeløb er summen af alle familiers udregning._
+_Hver familie kan låne et beløb svarende til husstandens samlede, årlige bruttoindkomst ganget med 3,5, plus eventuel opsparing. Vi antager at det samlede lånebeløb er summen af alle familiers udregning. ([mybanker.dk](https://www.mybanker.dk/artikler/guide-hvor-meget-kan-jeg-koebe-bolig-for))_
 
-**Eksempel**: M tjener 38.000 / md. K tjener 42.000 / md. Ved salg af bolig opnår de en friværdi på 250.000. De kan derfor låne: (38.000 + 42.000) x 12 x 3,5 + 250.000 = 3.610.000 kr.
+> **Eksempel**: M tjener 38.000 / md. K tjener 42.000 / md. Ved salg af bolig opnår de en friværdi på 250.000. De kan derfor låne: (38.000 + 42.000) x 12 x 3,5 + 250.000 = 3.610.000 kr.
+
+Andre metoder til udregning:
+
+- [Minimum rådighedsbeløb efter alle faste udgifter (Jyske bank)](https://www.jyskebank.dk/bolig/boligkoeb)
+- [Bolius låneberegner](https://www.bolius.dk/saa-dyr-en-bolig-har-du-raad-til-at-koebe-3580/)
+
+Det er vigtigt at bemærke, at **foreningen stifter lånet og ejer huset**. Bank/realkredit kan derfor kun vurdere foreningens kreditværdighed ved stiftelsen.
+
+Familierne skal _efterfølgende_ købe de andele, som foreningen sætter til salg. Finansieringen af dette køb er de enkelte familiers eget ansvar, og skal der lånes, kan det kun være et banklån, da realkreditinstitutterne ikke låner til at køb af andel.
+
+I en lille andelsforening er der **solidarisk hæftelse**, hvilket betyder at der kan stilles krav til det enkelte individ om at indfri hele foreningens gæld. Det er derfor i høj grad et tillidsbaseret system. Når man sælger sin andel og fraflytter ejendommen, vil man blive skrevet ud af lånet, hvorefter den solidariske hæftelse ophører.
+
+Da solidarisk hæftelse spreder risikoen ud over en større gruppe, er det muligt, at låneinstituttet vil acceptere en højere gældsfaktor end 3,5.
 
 ### Markedsresearch
 
@@ -117,7 +134,12 @@ Vi tager stilling til, hvordan _timingen_ i den videre færd skal være. Alle ha
 
 ## 4. Køb
 
-Vi køber en ejendom.
+På et tidspunkt vil et emne blive præsenteret, som alle kan være enige om at byde på.
+
+- Foreningensformen vil formentlig betyde, at den enkelte familie skal købe andelen uafhængigt af det samlede lån. Dette svarer til en almindelig andelsboligforening: foreningen har købt huset, familien skal købe andelen.
+- Skal der indhentes professionel, uafhængig rådgivning til at vurdere, om ejendommen har den påståede kvalitet?
+- Der skal tegnes ejerskifteforsikring i forbindelse med købet.
+- Man underskriver en aftale med bank- og advokatforbehold. Hvis banken eller advokaten gør indsigelse, kan aftalen annulleres uden omkostninger. Udnyttes indsigelsesretten ikke, er man forpligtet til at købe. Typisk kan man stadig annullere købet i en periode, mod betaling af f.eks. 2% af købsprisen.
 
 ## 5. Indflytning og drift
 
