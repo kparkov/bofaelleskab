@@ -1,23 +1,42 @@
-# Køreplan til bofællesskab eller kollektiv
+---
+puppeteer:
+  displayHeaderFooter: true
+  headerTemplate: "<div>&nbsp;</div>"
+  footerTemplate: "<div style='font-size: 12px; margin: 1em 1em auto auto'><span class='pageNumber'></span></div>"
+  margin:
+    top: 50px
+    bottom: 50px
+    left: 50px
+    right: 50px
+---
+# Køreplan til bofællesskab eller kollektiv <!-- omit in toc -->
 
 Her er en køreplan til at stifte et bofællesskab eller kollektiv. Den beskriver alle de trin, der er nødvendige for at gennemføre projektet fra start til slut. Det er i høj grad et _work in progress_, og skal opfattes som et levende dokument, der udvikler sig undervejs.
 
+## Sådan bidrager du til dette dokument
+
+Dokumentet savner gennemlæsning og korrektur fra flere personer og fagligheder. Læs eventuelt [afsnittet om at bidrage til dokumentet](#s%C3%A5dan-bidrager-du-til-dette-dokument).
+
+Den letteste måde at bidrage på, er ved at [_oprette et nyt issue_](https://github.com/kparkov/bofaelleskab/issues/new). Her kan man beskrive et problem med teksten, og eventuelt bidrage med den relevante rettelse.
+
+Hvis man vil bidrage mere direkte med tekstændringer, kan man gøre det via såkaldte pull requests (forslag til ændringer). Du kan [redigere dette dokument direkte](https://github.com/kparkov/bofaelleskab/edit/master/README.md) - når du gemmer, oprettes pull requesten. Der er en boks i bunden, der skal bruges til at beskrive, hvad du ændrer og hvorfor. Først når ændringsforslaget er _godkendt_, vil det slå igennem på forsiden.
+
+## Indhold
+
+- [Sådan bidrager du til dette dokument](#s%c3%a5dan-bidrager-du-til-dette-dokument)
+- [Indhold](#indhold)
+- [1. Forventninger](#1-forventninger)
+- [2. Realitetstjek](#2-realitetstjek)
+  - [Budget](#budget)
+    - [Poster i budgettet](#poster-i-budgettet)
+  - [Advokathjælp](#advokathj%c3%a6lp)
+  - [Lån](#l%c3%a5n)
+  - [Markedsresearch](#markedsresearch)
+- [3. Beslutning og tilsagn](#3-beslutning-og-tilsagn)
+- [4. Køb](#4-k%c3%b8b)
+- [5. Indflytning og drift](#5-indflytning-og-drift)
+
 <p align="center"><img src="assets/map.svg" width="500" /></p>
-
-### Indhold
-
-- [Køreplan til bofællesskab eller kollektiv](#k%C3%B8replan-til-bof%C3%A6llesskab-eller-kollektiv)
-    - [Indhold](#indhold)
-  - [1. Forventninger](#1-forventninger)
-  - [2. Realitetstjek](#2-realitetstjek)
-    - [Budget](#budget)
-      - [Poster i budgettet](#poster-i-budgettet)
-    - [Advokathjælp](#advokathj%C3%A6lp)
-    - [Lån](#l%C3%A5n)
-    - [Markedsresearch](#markedsresearch)
-  - [3. Beslutning og tilsagn](#3-beslutning-og-tilsagn)
-  - [4. Køb](#4-k%C3%B8b)
-  - [5. Indflytning og drift](#5-indflytning-og-drift)
 
 ## 1. Forventninger
 
@@ -62,11 +81,13 @@ Målet med fasen er at afklare _om det er relevant at fortsætte_, men også at 
 
 Målet med denne fase er at blive fuldstændig afklaret med, om processen kan gennemføres - både for den enkelte og for gruppen.
 
-Man bør forvente, at dette er den længste fase. Her omsættes alle idéer til realisérbare planer. Man er fortsat ikke forpligtet til at gennemføre, hverken som gruppe, familie eller individ. 
+Man bør forvente, at dette er den længste fase. Her omsættes alle idéer til realisérbare planer. 
+
+På intet tidspunkt i denne fase forpligter man sig økonomisk eller moralsk. Forpligtelsen er en del af den næste fase.
 
 ### Budget
 
-1. Hver familie opstiller eget budget. Der er ikke behov for at offentliggøre dette for gruppen, men gruppen skal have to tal fra familierne: et _komfort-tal_ (det højeste tal, hvor familien stadig er komfortabel med det) og et _max-tal_ (hvis prisen bliver højere end dette, er familien tvunget til at sælge / flytte).
+1. Hver familie opstiller eget budget. Der er ikke behov for at offentliggøre budgettes detaljer for gruppen. Gruppen skal kun vide, hvor meget 
 2. Der opstilles et foreningsbudget. På indtægtssiden bogføres alle komforttal.
 
 Der er flere mål med dette budget:
