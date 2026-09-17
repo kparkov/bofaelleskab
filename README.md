@@ -1,15 +1,4 @@
----
-puppeteer:
-  displayHeaderFooter: true
-  headerTemplate: "<div>&nbsp;</div>"
-  footerTemplate: "<div style='font-size: 12px; margin: 1em 1em auto auto'><span class='pageNumber'></span></div>"
-  margin:
-    top: 50px
-    bottom: 50px
-    left: 50px
-    right: 50px
----
-# Køreplan til bofællesskab eller kollektiv <!-- omit in toc -->
+# Køreplan til bofællesskab eller kollektiv
 
 Her er en køreplan til at stifte et bofællesskab eller kollektiv. Den beskriver alle de trin, der er nødvendige for at gennemføre projektet fra start til slut. Det er i høj grad et _work in progress_, og skal opfattes som et levende dokument, der udvikler sig undervejs.
 
@@ -36,7 +25,7 @@ Hvis man vil bidrage mere direkte med tekstændringer, kan man gøre det via så
 - [4. Køb](#4-k%c3%b8b)
 - [5. Indflytning og drift](#5-indflytning-og-drift)
 
-<p align="center"><img src="assets/map.svg" width="500" /></p>
+![map](assets/map.svg)
 
 ## 1. Forventninger
 
